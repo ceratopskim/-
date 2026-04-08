@@ -6,4 +6,4 @@ english_name = "Seongjun Oh"
 
 print("AI Engineering Student")
 
-print("반가워 깃")
+print("Bye 깃")
